@@ -2,9 +2,9 @@
 Business Card OCR
 
 To run this file, you will need to install requests, bs4, and pandas:
-pip install requests
+'''pip install requests
 pip install bs4
-pip install pandas
+pip install pandas'''
 
 
 
